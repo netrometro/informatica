@@ -6,23 +6,24 @@
 2. Faça o exercício descrito abaixo, copiando o texto e aplicando a formatação;
 3. Salve o exercício em uma pasta com seu nome.
 
-----------------------------------------------------------------------------------------------------------
+---
 ### Texto
 
-frutas, verduras e legumes
+>frutas, verduras e legumes
+>
+>Janeiro
+>
+>Frutas: abacaxi, carambola, coco verde, figo, framboesa, fruta do conde, laranja-pera, mamão, maracujá, melancia, nectarina e uva;  
+>Verduras: alface, cebolinha, couve e salsa;  
+>Legumes: abóbora, abobrinha, beterraba, pepino, pimentão, quiabo e tomate.  
+>
+>Fevereiro
+>
+>Frutas: abacate, ameixa, carambola, coco verde, figo, fruta do conde, goiaba, jaca, maçã, pera, pêssego, seriguela e uva;  
+>Verduras: escarola, hortelã e repolho;  
+>Legumes: abóbora, gengibre, milho verde, pepino, pimentão, quiabo e tomate.  
 
-Janeiro
-
-Frutas: abacaxi, carambola, coco verde, figo, framboesa, fruta do conde, laranja-pera, mamão, maracujá, melancia, nectarina e uva;  
-Verduras: alface, cebolinha, couve e salsa;  
-Legumes: abóbora, abobrinha, beterraba, pepino, pimentão, quiabo e tomate.  
-
-Fevereiro
-
-Frutas: abacate, ameixa, carambola, coco verde, figo, fruta do conde, goiaba, jaca, maçã, pera, pêssego, seriguela e uva;  
-Verduras: escarola, hortelã e repolho;  
-Legumes: abóbora, gengibre, milho verde, pepino, pimentão, quiabo e tomate.  
-
+---
 ### Regras
 
 * Formate o título com a fonte Courier, tamanho 18, negrito e depois use o comando de deixar todas as letras em maiúscula;
