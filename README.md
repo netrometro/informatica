@@ -3,7 +3,7 @@
 ## Microsoft Word
 
 Exercício sobre formatação de texto 1:
-* [Exercício 01](https://github.com/netrometro/word/exercicio01.md)
+* [Exercício 01](https://github.com/netrometro/informatica/blob/main/word/exercicio01.md)
 
 Exercício sobre formatação de texto 2:
 * [Exercício 02](https://github.com/netrometro/word/exercicio02.md)
